@@ -25,6 +25,14 @@ export default {
         { 
           name: 'Juan', 
           lastName: 'Caicedo' 
+        },
+        { 
+          name: 'Alfredo', 
+          lastName: 'Suarez' 
+        },
+        { 
+          name: 'Ernesto', 
+          lastName: 'Carpio' 
         }
       ] 
     }
